@@ -34,8 +34,8 @@ To write a Java program that initializes object variables using a constructor an
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: DINESH KARTHICK KJ
-Register Number:212222100011
+Developed by: MOUNESH P
+Register Number:212222230084
 */
 ```
 
@@ -82,6 +82,7 @@ public class StudentDemo {
 
 ## RESULT:
 Therefore the program successfully creates a student object using the constructor.
+
 
 
 
